@@ -6,7 +6,7 @@ Quick-c++ is a open source project to help to code better and fast in c++ (or an
 ### 🌐 Open source!
 ## 💻 How to run this
 ```sh
-py .\main.py --directory your-folder-name
+py .\main.py --directory <path>
 ```
 
 The script detects if the directory exists or generate a new directory.
