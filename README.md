@@ -4,6 +4,13 @@ Quick-c++ is a open source project to help to code better and fast in c++ (or an
 ### ✅ execute a cpp file in one line!
 ### 👍 Clean console!
 ### 🌐 Open source!
+
+## 📡 Downloading repo and installing requirements:
+
+```console
+git clone https://github.com/ChirujanoCodding/quick-c && pip install -r requirements.txt
+```
+
 ## 💻 How to run:
 
 Windows:
