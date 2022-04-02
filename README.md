@@ -12,7 +12,7 @@ py .\main.py
 ```
 Linux
 ```console
-sudo python3 .\main.py
+python3 .\main.py
 ```
 
 ### if you want to abbreviate the program, set any argument on the command line:
